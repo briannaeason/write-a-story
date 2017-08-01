@@ -38,7 +38,3 @@ story += " for a stranger. Why don't you " + verb2;
 story += '?" ' + firstLetterUpper(name);
 story += " obeyed and went home to their " + noun2;
 story += " and lived happily ever after. The end.";
-
-//places the story inside a div
-
-$('.paragraph').html(story);
