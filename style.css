@@ -1,0 +1,40 @@
+body {
+  font-family:'Bellefair';
+  font-size:24px;
+  background:url("https://upload.wikimedia.org/wikipedia/commons/8/81/Humber_estuary_foreshore_stormy_clouds_2.jpg");
+  background-position:center;
+  background-repeat:no-repeat;
+}
+h1 {
+  font-family:'Permanent Marker';
+  font-size:48px;
+  color:#2A902E;
+  text-align:center;
+  margin:50px 20px;
+  text-shadow:2px 2px #999;
+}
+.divbox {
+  border:3px solid white;
+  border-radius:10px;
+  width:600px;
+  background-color:black;
+  opacity:0.4;
+}
+.paragraph{
+  padding:30px 20px;
+  color:white;
+  opacity:1 !important;
+}
+
+.description-text {
+  color:black;
+  font-size:14px;
+  text-align:center;
+  margin-top:50px;
+  padding:10px;
+  border:3px solid white;
+  border-radius:10px;
+  width:600px;
+  background-color:white;
+  opacity:0.6;
+}
